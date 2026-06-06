@@ -1,42 +1,58 @@
-<h2 align="left">Hi 👋! My name is Rahul Parihar, Frontend Developer</h2>
+# Hi 👋, I'm Rahul Parihar
 
-###
+### Frontend Developer | React.js Enthusiast | Problem Solver
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahul72parihar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul72parihar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+Passionate Frontend Developer focused on building responsive, user-friendly, and modern web applications. I enjoy transforming ideas into clean, scalable, and high-performance digital experiences.
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-</div>
-
-###
+## 🚀 Tech Stack
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
 </div>
 
-###
+---
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/rahul72parihar/rahul72parihar/output/snake.svg" alt="Snake animation" />
-
-###
+## 📊 GitHub Statistics
 
 <div align="center">
-  <h2>Total Visitors</h2>
-  <img src="https://profile-counter.glitch.me/rahul72parihar/count.svg?"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=rahul72parihar&show_icons=true&theme=tokyonight&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul72parihar&layout=compact&theme=tokyonight" height="170" />
 </div>
 
-###
+---
+
+## 📫 Connect With Me
+
+<div align="left">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rahul72parihar/rahul72parihar/output/snake.svg" alt="Snake Animation" />
+</p>
+
+---
+
+## 👀 Profile Visitors
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/rahul72parihar/count.svg" />
+</div>
