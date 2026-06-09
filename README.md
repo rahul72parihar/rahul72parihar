@@ -20,14 +20,6 @@ Passionate Frontend Developer focused on building responsive, user-friendly, and
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahul72parihar&show_icons=true&theme=tokyonight&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul72parihar&layout=compact&theme=tokyonight" height="170" />
-</div>
-
----
 
 ## 📫 Connect With Me
 
@@ -49,10 +41,4 @@ Passionate Frontend Developer focused on building responsive, user-friendly, and
   <img src="https://raw.githubusercontent.com/rahul72parihar/rahul72parihar/output/snake.svg" alt="Snake Animation" />
 </p>
 
----
 
-## 👀 Profile Visitors
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/rahul72parihar/count.svg" />
-</div>
